@@ -1,0 +1,4 @@
+[submodule "manim"]
+	path = manim
+	url = git@github.com:fizruk/manim.git
+	branch = etcs-macos
